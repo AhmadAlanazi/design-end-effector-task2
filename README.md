@@ -10,4 +10,4 @@ Procedures:
 
 2- Draw the other like connecting with the kinfe, this link is the one that we are going to make the joint in it. this like should be more wider and more thicker than the knife.
 
-3-
+3- Draw the joint as the pervious End effector in the same style, and Extrude cut one for 10mm and the holes through all.
