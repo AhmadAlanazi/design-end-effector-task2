@@ -4,4 +4,8 @@ sharp tool is the most effective way to pop the balloon, i chose shape look lik 
 
 SOLIDWORKS program used here. 
 
-Procedures
+Procedures:
+
+1-first Draw the desire shape, which is knife shape, and Extrude Boss/base to the desire thickness, and make filet to the edges of the kinfe.
+
+
